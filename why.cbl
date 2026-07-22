@@ -9,5 +9,5 @@
             PROGRAM-ID. MAIN.
 
             PROCEDURE DIVISION.
-               DISPLAY "Hello, World!"
+               DISPLAY "Hello, Hell!"
                STOP RUN.
